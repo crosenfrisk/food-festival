@@ -10,6 +10,7 @@
 
   ## Preview
   ![Your Picture Here](/assets/img/food-event-homepage.png)
+  [Visit Deployed Application From Your Phone or Computer](https://crosenfrisk.github.io/food-festival/)
 
 
   ## Table of Contents
